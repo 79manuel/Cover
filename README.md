@@ -22,37 +22,37 @@ Add topics
 5. Run the server: `bin/rails server`
 6. Visit `http://localhost:3000/`
 
-### Dependencies
+## Dependencies
 
 PLATFORMS
-  ruby
+  - ruby
 
 DEPENDENCIES
-  bcrypt (~> 3.1.7)
-  bootstrap-sass (~> 3.3.6)
-  byebug
-  capybara (~> 2.13)
-  coffee-rails (~> 4.2)
-  font-awesome-rails
-  geocoder
-  jbuilder (~> 2.5)
-  jquery-rails
-  listen (>= 3.0.5, < 3.2)
-  pg
-  pry
-  puma (~> 3.7)
-  rails (~> 5.1.2)
-  sass-rails (~> 5.0)
-  selenium-webdriver
-  spring
-  spring-watcher-listen (~> 2.0.0)
-  turbolinks (~> 5)
-  twilio-ruby
-  tzinfo-data
-  uglifier (>= 1.3.0)
-  web-console (>= 3.3.0)
+  - bcrypt (3.1.7)
+  - bootstrap-sass (3.3.6)
+  - byebug
+  - capybara (2.13)
+  - coffee-rails (4.2)
+  - font-awesome-rails
+  - geocoder
+  - jbuilder (2.5)
+  - jquery-rails
+  - listen  (3.0.5, < 3.2)
+  - pg
+  - pry
+  - puma (3.7)
+  - rails (5.1.2)
+  - sass-rails (5.0)
+  - selenium-webdriver
+  - spring
+  - spring-watcher-listen (2.0.0)
+  - turbolinks (5)
+  - twilio-ruby
+  - tzinfo-data
+  - uglifier (1.3.0)
+  - web-console (3.3.0)
 
 BUNDLED WITH
-   1.15.1
+  - 1.15.1
 
 
