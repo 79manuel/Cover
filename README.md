@@ -1,7 +1,6 @@
 # About
 
-A marketplace matching restaurants with on-demand temporary workers. Restaurants can obtain workers on short notice, to cover absentees and unexpected rushes. Workers find temporary work at premium rates, allowing supplemental income or a flexible lifestyle. Edit
-Add topics 
+A marketplace matching restaurants with on-demand temporary workers. Restaurants can obtain workers on short notice, to cover absentees and unexpected rushes. Workers find temporary work at premium rates, allowing supplemental income or a flexible lifestyle.
 
 ![Home Page](https://github.com/79manuel/Cover/blob/master/public/Home%20Page.png?raw=true)
 ![Home Page](https://github.com/79manuel/Cover/blob/master/public/Login.png?raw=true)
