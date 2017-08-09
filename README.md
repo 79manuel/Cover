@@ -3,7 +3,15 @@
 A marketplace matching restaurants with on-demand temporary workers. Restaurants can obtain workers on short notice, to cover absentees and unexpected rushes. Workers find temporary work at premium rates, allowing supplemental income or a flexible lifestyle. Edit
 Add topics
 
-![Todone Index](https://github.com/typeoh/todone/blob/master/public/images/todone_index.png?raw=true)
+![Home Page](https://github.com/79manuel/Cover/blob/master/public/Home%20Page.png?raw=true)
+![Home Page](https://github.com/79manuel/Cover/blob/master/public/Login.png?raw=true)
+![Home Page](https://github.com/79manuel/Cover/blob/master/public/Jobs%20posts.png?raw=true)
+![Home Page](https://github.com/79manuel/Cover/blob/master/public/Job%20posts-mobile.png?raw=true)
+![Home Page](https://github.com/79manuel/Cover/blob/master/public/Job%20info.png?raw=true)
+![Home Page](https://github.com/79manuel/Cover/blob/master/public/job%20info-mobile.png?raw=true)
+
+
+
 
 ## Getting Started
 
